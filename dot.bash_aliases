@@ -10,3 +10,4 @@ alias mkdirpcd="mkdirpcd"
 
 # Git
 alias gl="git log -n 10 --oneline --decorate"
+alias gs="git status"
